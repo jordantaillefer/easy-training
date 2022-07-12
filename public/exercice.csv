@@ -1,0 +1,244 @@
+id,createdAt,updatedAt,categorie,nomExercice
+26d6e944-1c8b-4912-8ff3-b7d3cfedd6f7,2022-03-10 12:57:38.555,2022-03-10 12:20:00.955,pectoraux,Développé assis à la machine convergente
+e94332ed-fa86-4458-9c45-ff184106631d,2022-03-10 12:57:38.556,2022-03-10 12:54:06.026,pectoraux,Développé couché avec haltères
+b9bd950d-53d3-433a-adbf-27f5dc722620,2022-03-10 12:57:38.557,2022-03-10 12:54:06.211,pectoraux,Développé couché à la barre
+a7d056fc-1d71-465b-af7e-1d8e62207632,2022-03-10 12:57:38.558,2022-03-10 12:54:06.396,pectoraux,Développé couché à la machine convergente
+f878eebe-e9b3-4f12-8c3f-c7728e729c36,2022-03-10 12:57:38.558,2022-03-10 12:54:06.993,pectoraux,Développé décliné avec haltères
+ca5b62f7-8950-42ed-9e33-7db6dd281990,2022-03-10 12:57:38.558,2022-03-10 12:54:07.259,pectoraux,Développé décliné à la barre
+4831b791-640c-4202-8eef-5f66711b40a4,2022-03-10 12:57:38.558,2022-03-10 12:54:07.51,pectoraux,Développé incliné avec haltères
+45fd3e71-bc8d-4dfe-84b3-8b8a93c6ecb4,2022-03-10 12:57:38.559,2022-03-10 12:54:07.676,pectoraux,Développé incliné à la barre
+4a861fb4-f731-485b-bbd5-cb97c54d2448,2022-03-10 12:57:38.559,2022-03-10 12:54:07.845,pectoraux,Développé incliné à la machine convergente
+a176336a-1223-41b2-9897-6ca6aeac5913,2022-03-10 12:57:38.559,2022-03-10 12:55:33.812,pectoraux,Dips prise large buste penché
+67105cdc-18b2-4fa2-8243-52621f7ac8ce,2022-03-10 12:57:38.559,2022-03-10 12:55:33.876,pectoraux,Pull over avec barre ou haltère
+c6fb0bb8-d78d-4145-9d15-3a67bf0de5a5,2022-03-10 12:57:38.559,2022-03-10 12:55:34.081,pectoraux,Pull over en travers d’un banc avec barre ou haltère
+299fe0cd-c083-40c6-8383-4d74ec4fa677,2022-03-10 12:57:38.559,2022-03-10 12:56:03.72,pectoraux,Écarté couché avec haltères
+0510a77e-c3d1-47f6-b291-3365206b1510,2022-03-10 12:57:38.559,2022-03-10 12:56:03.903,pectoraux,Écarté décliné avec haltères
+87566edb-4890-41e6-8aca-d8582de613fc,2022-03-10 12:57:38.559,2022-03-10 12:56:04.071,pectoraux,Écarté incliné avec haltères
+f3252bce-7476-423c-b383-69f9c3c43259,2022-03-10 12:57:38.56,2022-03-10 12:56:04.226,pectoraux,Écarté pectoraux à la machine
+8875cc0a-e41e-4cb8-929f-1b4d6627632f,2022-03-10 12:57:38.561,2022-03-10 12:56:04.381,pectoraux,Pompes prise large au sol
+ff5e93a6-13ff-4009-bbe1-9d71057bb859,2022-03-10 12:57:38.561,2022-03-10 12:56:04.548,pectoraux,Pull over à la poulie basse
+a079d1ae-0925-4477-9e40-1082c6fa0ef9,2022-03-10 12:57:38.561,2022-03-10 12:56:04.698,pectoraux,Écarté à la poulie vis à vis basse
+60a33ce6-0c88-416f-b270-d94c78fc84bb,2022-03-10 12:57:38.561,2022-03-10 12:56:04.866,pectoraux,Écarté à la poulie vis à vis haute
+d2857a7d-2ec1-4b63-979a-503d39974619,2022-03-10 12:57:38.561,2022-03-10 12:56:05.021,pectoraux,Développé couché à la machine
+f474ea4a-d7e7-45c9-b43d-78cafc212728,2022-03-10 13:00:17.29,2022-03-10 12:58:16.335,deltoïdes,Élévation latérale à la poulie
+57d4e4bf-dd90-470a-bcfb-f8e363643709,2022-03-10 13:00:17.29,2022-03-10 12:58:16.506,deltoïdes,Développé épaules avec haltères
+506ac833-8ba6-4abb-8705-aff9fcf31fa1,2022-03-10 13:00:17.29,2022-03-10 12:58:16.71,deltoïdes,Développé épaules à la machine convergente
+00cd2c42-78ab-4f50-b63b-41f6166559a9,2022-03-10 13:00:17.291,2022-03-10 12:58:16.865,deltoïdes,Développé militaire avec barre
+1ccc58d7-b2fc-4a59-97a5-82fb5455f50f,2022-03-10 13:00:17.291,2022-03-10 12:58:17.003,deltoïdes,Développé nuque avec barre
+cbf0e9b5-7bc0-47d9-8e5a-78f1f1d0766e,2022-03-10 13:00:17.291,2022-03-10 12:58:17.177,deltoïdes,Oiseau à la poulie basse
+9fe6ce0a-7e96-44b1-bc07-dc9edc8a5974,2022-03-10 13:00:17.291,2022-03-10 12:58:17.331,deltoïdes,Oiseau/Rowing avec haltères
+ebf05b48-dde4-4363-aa7c-a73ef6abfcc2,2022-03-10 13:00:17.291,2022-03-10 12:58:17.487,deltoïdes,Rowing assis à la machine coudes ouverts
+17ecef98-a64d-41e3-89b3-bc3745b5bfb2,2022-03-10 12:58:12.199,2022-03-10 13:00:25.831,deltoïdes,Rowing assis à la poulie basse coudes ouverts
+1aa32073-7499-4edd-875f-6fd721fa7dcb,2022-03-10 13:02:25.087,2022-03-10 13:00:30.064,deltoïdes,Élévation frontale à la poulie
+13f99529-0609-49a5-807f-c4d7d1fc3df5,2022-03-10 13:02:25.087,2022-03-10 13:00:30.201,deltoïdes,Élévation frontale avec une barre
+df0d4d3d-1cec-49a0-aa01-c219a4a13157,2022-03-10 13:02:25.087,2022-03-10 13:00:30.376,deltoïdes,Élévation frontale avec haltères
+465d219f-396b-48a0-8305-877e2bd59264,2022-03-10 13:02:25.087,2022-03-10 13:00:30.51,deltoïdes,Oiseau sur banc incliné avec haltères
+52013236-ad8f-425d-9299-734aa927dba7,2022-03-10 13:02:25.087,2022-03-10 13:00:30.648,deltoïdes,Oiseau à un bras allongé
+da6304ee-476a-4864-ba17-9759678a2cf9,2022-03-10 13:02:25.087,2022-03-10 13:00:30.786,deltoïdes,Oiseau à la poulie haute
+0e0da2d4-7ba5-456d-935a-ddbcfbd67850,2022-03-10 13:02:25.087,2022-03-10 13:00:30.942,deltoïdes,Oiseau à la machine
+e553cf8c-01b9-4fc1-8543-04d22177fea2,2022-03-10 13:02:25.088,2022-03-10 13:00:31.08,deltoïdes,Oiseau avec haltères
+b1001286-b12a-4c8e-9a3f-b55d4f06ea39,2022-03-10 13:02:25.088,2022-03-10 13:00:31.235,deltoïdes,Développé inversé au poids de corps
+a79bbb3a-6bc9-4e4a-a0de-0bb9bdb24e75,2022-03-10 13:02:25.089,2022-03-10 13:00:31.374,deltoïdes,Développé épaules à la machine
+d468c50a-2748-4b3e-aab0-c7e931e963b6,2022-03-10 13:02:25.089,2022-03-10 13:00:31.526,deltoïdes,Développé épaules Arnold avec haltères
+16d32178-c7d4-4af5-83a0-791949f5065f,2022-03-10 13:02:25.089,2022-03-10 13:00:31.674,deltoïdes,Élévation latérale à un bras sur banc incliné
+ea0d2b5f-d119-47b2-b6e0-44dd88a543e8,2022-03-10 13:02:25.089,2022-03-10 13:00:31.816,deltoïdes,Élévation latérale à un bras penché sur le côté
+444eaa3a-0071-4299-b106-666a3a43cf3f,2022-03-10 13:02:25.089,2022-03-10 13:00:31.959,deltoïdes,Élévation latérale avec haltères
+a0210c6a-3d69-453a-9742-39f4f272ff80,2022-03-10 13:02:25.089,2022-03-10 13:00:32.125,deltoïdes,Rowing debout prise large avec barre
+fec122ad-71e4-4ba5-868e-3c3761647876,2022-03-10 13:02:25.089,2022-03-10 13:00:32.268,deltoïdes,Rowing debout à la poulie basse
+eca5854c-c677-4767-b7df-ee517e7d549a,2022-03-10 13:02:25.089,2022-03-10 13:00:32.409,deltoïdes,Rowing barre coudes ouverts
+136bc440-1e86-4390-b773-ca1f46a5d1ab,2022-03-10 13:02:25.09,2022-03-10 13:00:32.63,deltoïdes,Rowing à la T-bar coudes ouverts
+3cfe487a-912a-4cbd-9976-1288c9653530,2022-03-10 13:02:25.09,2022-03-10 13:00:33.636,deltoïdes,Rowing à la poulie haute sur banc incliné coudes ouverts
+b11bc472-a737-4f4e-a743-e6d008ccc26c,2022-03-10 13:02:25.09,2022-03-10 13:00:33.822,deltoïdes,Rowing à la poulie basse sur banc incliné coudes ouverts
+bbc307ce-f84c-4517-9dfb-29e0ed224a7e,2022-03-10 13:02:25.086,2022-03-10 13:03:17.309,deltoïdes,Élévation frontale sur banc incliné avec barre ou haltères
+8b16636f-73bb-4460-ad66-e670199a406d,2022-03-10 13:02:25.086,2022-03-10 13:03:17.309,deltoïdes,Élévation latérale à la machine
+7d7c8a0f-5027-4ecc-80fe-1a7f21d33c84,2022-03-10 13:02:25.086,2022-03-10 13:03:17.309,deltoïdes,L-Fly allongé à la poulie basse
+7325ebd5-8ed4-4df0-bbe3-e328177f02be,2022-03-10 13:02:25.086,2022-03-10 13:03:17.31,deltoïdes,L-Fly assis à la poulie basse
+7d3ffce9-d2f4-4659-9a12-ea0a1b3ab935,2022-03-10 13:02:25.086,2022-03-10 13:03:17.31,deltoïdes,L-Fly avec haltère
+92e49eb6-3209-4bac-9baa-d3749c0d3f88,2022-03-10 13:02:25.086,2022-03-10 13:03:17.31,deltoïdes,L-Fly debout à la poulie
+58034e54-a260-416b-91e3-b8b816efd747,2022-03-10 13:07:49.032,2022-03-10 13:03:19.809,trapèzes,Rowing à la T-bar
+ef035235-d26b-44fd-99fe-eb1762fef943,2022-03-10 13:07:49.032,2022-03-10 13:03:20.353,deltoïdes,Rotation interne debout à la poulie
+5801708a-2ed3-4654-b22f-62e21a56c52b,2022-03-10 13:07:49.032,2022-03-10 13:03:20.545,deltoïdes,Rotation interne avec haltère
+e3a2cd3b-14f1-40f0-a490-61ee840c6960,2022-03-10 13:07:49.032,2022-03-10 13:03:20.725,deltoïdes,Rotation interne assis à la poulie basse
+7353b0fc-a18d-4f44-a02b-1b677755b837,2022-03-10 13:07:49.032,2022-03-10 13:03:20.919,deltoïdes,Rotation interne allongé à la poulie basse
+ff757fd8-ae03-4159-976e-61aa147a7c74,2022-03-10 13:07:49.033,2022-03-10 13:03:21.119,deltoïdes,Rotation externe debout avec barre
+57154fb7-df34-41fa-bb6b-9f51cfe22cc2,2022-03-10 13:10:53.87,2022-03-10 13:07:55.228,trapèzes,Shrug à la machine à mollets
+d7389782-0175-4cdc-9aa1-242631e5c45b,2022-03-10 13:10:53.871,2022-03-10 13:07:56.122,trapèzes,Shrug à la machine
+73cb1eed-363e-41fc-97d9-3905a0607977,2022-03-10 13:10:53.871,2022-03-10 13:07:56.565,trapèzes,Shrug avec haltères
+1f14c770-db0e-41b6-88df-ac7464fc8f1b,2022-03-10 13:10:53.871,2022-03-10 13:07:56.789,trapèzes,Shrug avec barre
+09c255ae-0764-431b-bc6e-d59d65e1a5d4,2022-03-10 13:10:53.872,2022-03-10 13:07:57.039,trapèzes,Rowing inversé au poids de corps
+36561d24-476a-45bb-a8c0-4f788449035e,2022-03-10 13:10:53.873,2022-03-10 13:07:57.374,trapèzes,Rowing debout prise serrée avec barre
+c021ee80-e90f-452b-882d-feb38f4aef87,2022-03-10 13:10:53.874,2022-03-10 13:07:57.54,trapèzes,Rowing barre allongé sur banc
+6c1ede97-f3f2-48de-9d29-4964fc7161f2,2022-03-10 13:10:53.874,2022-03-10 13:07:57.756,trapèzes,Rowing à un bras à la poulie basse
+87d98862-5a1d-4c84-a708-4210d50771a9,2022-03-10 13:10:53.875,2022-03-10 13:07:57.969,trapèzes,Rowing à la T-bar à la machine
+26d7f20f-adbe-40a2-be85-923f61e10c81,2022-03-10 13:10:53.875,2022-03-10 13:07:58.243,trapèzes,Rowing à la poulie haute en supination
+a157286b-397f-40b3-8c45-7c89619a8d54,2022-03-10 13:10:53.875,2022-03-10 13:07:58.416,trapèzes,Rowing à la poulie haute en pronation
+e2d4b484-6a8e-4d4d-bd3b-21fd5fb1ee15,2022-03-10 13:10:53.875,2022-03-10 13:07:58.622,trapèzes,Rowing à la poulie haute en prise neutre
+f0c09d37-d91b-4028-987e-905c9cab30e7,2022-03-10 13:10:53.875,2022-03-10 13:07:58.907,trapèzes,Rowing à la poulie haute à un bras
+4f5f5c15-f755-49f5-b823-9e87fd5d8eec,2022-03-10 13:10:53.875,2022-03-10 13:07:59.198,trapèzes,Rowing à la poulie basse sur banc incliné
+32a9d10b-f15d-4596-aebb-6c9a1a129401,2022-03-10 13:10:53.875,2022-03-10 13:07:59.406,trapèzes,Rowing assis à la poulie basse prise neutre
+5d0f9984-75c7-4d79-9990-6f46545629ee,2022-03-10 13:10:53.876,2022-03-10 13:07:59.683,trapèzes,Rowing assis à la poulie basse en supination
+138f8439-6c02-4a2c-a655-bd7f5ec55d7c,2022-03-10 13:10:53.876,2022-03-10 13:07:59.84,trapèzes,Rowing assis à la poulie basse en pronation
+08b88305-21fe-4c40-99f5-d53ec0731960,2022-03-10 13:10:53.876,2022-03-10 13:08:00.052,trapèzes,Rowing assis à la poulie basse à un bras
+b5b69502-3596-48d3-a71a-5f56abcba031,2022-03-10 13:10:53.876,2022-03-10 13:08:00.535,trapèzes,Rowing assis à la machine
+cb058369-fad5-49df-99ce-14e217b786ae,2022-03-10 13:10:53.876,2022-03-10 13:08:00.763,trapèzes,Soulevé de terre partiel avec barre
+99d47d45-0701-43a8-8590-cc16dfbce7f0,2022-03-10 13:10:53.877,2022-03-10 13:08:01.868,trapèzes,Rowing barre en supination
+8d3c4fda-8ecc-4a1f-ad89-f798acac7b9f,2022-03-10 13:10:53.877,2022-03-10 13:08:02.095,trapèzes,Rowing barre buste penché en pronation
+7bc19cc4-097e-4e8a-9524-9f5c7d87a3d5,2022-03-10 13:10:53.878,2022-03-10 13:08:02.267,trapèzes,Rowing barre à la Yates en supination
+904347b6-d7b4-4fa3-8530-c5d35e6dbc9a,2022-03-10 13:10:53.878,2022-03-10 13:08:03.266,trapèzes,Rowing barre à la Yates en pronation
+79f23672-6ebf-48ea-b769-3fd9086f87e5,2022-03-10 13:10:53.878,2022-03-10 13:08:03.498,trapèzes,Rowing à un bras à la machine
+dc599cb0-d6db-4088-a355-4971d4b1bc31,2022-03-10 13:10:53.879,2022-03-10 13:08:03.679,trapèzes,Rowing à un bras avec haltère
+3d9ea03a-c77a-4f09-9fe4-ae2b035cbdc8,2022-03-10 13:10:53.879,2022-03-10 13:10:32.848,trapèzes,Shrug à la machine convergente
+38488ffc-4ad7-4498-adb2-3601bd9c9747,2022-03-10 13:13:17.812,2022-03-10 13:11:09.991,dorsaux,Traction prise large devant à la barre fixe
+5cf5a5fb-089b-47f5-bc36-36b65842e3fb,2022-03-10 13:13:17.812,2022-03-10 13:11:10.782,dorsaux,Traction prise large nuque à la barre fixe
+576b84ae-4258-46f6-85c0-06a13ff494eb,2022-03-10 13:13:17.813,2022-03-10 13:11:11.138,dorsaux,Traction prise neutre à la barre fixe
+77b276ee-f82d-4cec-888f-1eaa4fcabf17,2022-03-10 13:13:17.813,2022-03-10 13:11:11.456,dorsaux,Traction prise serrée en pronation à la barre fixe
+b555588e-e989-4e18-8cf5-ae987ca747c4,2022-03-10 13:13:17.813,2022-03-10 13:11:11.739,dorsaux,Traction prise supination cambré à la barre fixe
+6eeae4c8-28f1-4191-9951-10892189dc98,2022-03-10 13:13:17.813,2022-03-10 13:11:11.938,dorsaux,Pull over assis à la machine
+cf9ca717-ca8f-4401-9315-0410e9f16f1b,2022-03-10 13:13:17.813,2022-03-10 13:11:12.281,dorsaux,Traction à la machine convergente
+7a2cb460-959b-471a-9621-f18ee6a40cc9,2022-03-10 13:13:17.813,2022-03-10 13:11:12.466,dorsaux,Traction à la poulie haute à un bras
+2276b641-1fa4-40af-9e23-51b8f663af78,2022-03-10 13:13:17.813,2022-03-10 13:11:12.718,dorsaux,Traction à la poulie haute devant
+feefcae5-024c-4562-a4f6-f181a2e67696,2022-03-10 13:13:17.813,2022-03-10 13:11:12.973,dorsaux,Traction à la poulie haute nuque
+e23a7971-4f05-407c-9895-874319fc2b94,2022-03-10 13:13:17.813,2022-03-10 13:11:13.215,dorsaux,Traction à la poulie haute prise neutre
+8752e6cd-8b4f-47e7-b27e-39462d159f6c,2022-03-10 13:13:17.814,2022-03-10 13:11:49.125,dorsaux,Traction à la poulie haute prise serrée en pronation
+dc0ce564-5c00-4b56-b2ef-76d967653ff2,2022-03-10 13:13:17.814,2022-03-10 13:11:49.646,dorsaux,Traction à la poulie haute prise supination
+e7de8f94-c48a-4d27-8fcc-b9c537684a1e,2022-03-10 13:13:17.814,2022-03-10 13:11:50.243,dorsaux,Pull over debout à la poulie haute
+1c9a8004-37c5-4304-8fb3-ea4c8a6fee97,2022-03-10 13:13:17.815,2022-03-10 13:11:50.691,dorsaux,Traction à la machine
+6879cb7a-9bbf-4e23-a06a-209b63967774,2022-03-10 13:16:54.893,2022-03-10 13:13:19.208,triceps,Barre au front allongé à la poulie basse
+edfd9435-9692-48f0-8570-8d55ecdb1af2,2022-03-10 13:16:54.893,2022-03-10 13:13:37.562,triceps,Barre au front triceps avec barre ou haltères
+d422a62d-d368-46a4-9920-2971b6fd4802,2022-03-10 13:16:54.893,2022-03-10 13:13:38.118,triceps,Développé couché prise serrée à la barre
+cedfcacf-00ac-4c47-aee7-bef7510f0116,2022-03-10 13:16:54.893,2022-03-10 13:13:38.483,triceps,Dips à la machine
+45fe28c8-8899-4dac-b5ca-91e04363c4b2,2022-03-10 13:16:54.893,2022-03-10 13:13:38.871,triceps,Dips entre deux bancs
+5e756bc4-e90e-45b7-9ace-1f375bc218ca,2022-03-10 13:16:54.893,2022-03-10 13:13:39.243,triceps,Dips prise serrée
+4e4a61f5-9f2b-488f-9a05-829882f863a1,2022-03-10 13:16:54.893,2022-03-10 13:13:39.583,triceps,Extension des triceps à la poulie haute à genoux
+29c99972-2ba4-4035-b9eb-4f18475b1920,2022-03-10 13:16:54.894,2022-03-10 13:13:39.958,triceps,Extension des triceps contre un mur au poids de corps
+dc9189a8-e23f-45f5-baf9-f4b263339122,2022-03-10 13:16:54.894,2022-03-10 13:13:40.472,triceps,Extension nuque avec barre ou haltère
+729d671f-1724-4901-af82-456eb0212813,2022-03-10 13:16:54.894,2022-03-10 13:13:40.664,triceps,Extension nuque à la poulie
+5bca337b-2b5b-461f-85fb-38415a4edda5,2022-03-10 13:16:54.895,2022-03-10 13:13:40.996,triceps,Extension nuque à un bras avec haltère
+b3391c37-a029-44bc-9f05-753d1597beb8,2022-03-10 13:16:54.895,2022-03-10 13:13:41.389,triceps,Magic tRYCeps avec barre ou haltère
+767c7b2b-e565-4cc5-918a-ffa532fe4ca3,2022-03-10 13:16:54.895,2022-03-10 13:13:41.744,triceps,Pull over Press avec barre ou haltère
+51633e80-f91b-4f11-9752-f08592a3d2ff,2022-03-10 13:16:54.895,2022-03-10 13:13:42.039,triceps,Extension des triceps à la machine
+86f8f4cd-23f5-4245-8343-089d9e34aa3c,2022-03-10 13:16:54.895,2022-03-10 13:13:42.366,triceps,Extension des triceps bras à 180 degrés avec barre ou haltères
+a73c3cba-9e5b-41d7-bb6e-0b36a73502d2,2022-03-10 13:16:54.895,2022-03-10 13:13:42.668,triceps,Extension des triceps buste penché à la poulie haute
+629cde47-70c3-4515-8d05-cdc2faa85576,2022-03-10 13:16:54.895,2022-03-10 13:13:42.953,triceps,Pompes prise serrée au sol
+1ba160ee-4baf-441f-a553-9b4c9343d933,2022-03-10 13:16:54.895,2022-03-10 13:13:43.267,triceps,Tate Press avec haltères
+c65fa17f-96ed-4847-b0b3-cccf691fb33f,2022-03-10 13:16:54.896,2022-03-10 13:13:43.544,triceps,Tate Press à un bras avec haltère
+b8b8349b-31ab-4903-93fd-8492dc4c0adb,2022-03-10 13:16:54.896,2022-03-10 13:13:43.871,triceps,Extension des triceps à la poulie avec la corde
+07faac56-7212-44ee-baac-4829db672100,2022-03-10 13:16:54.896,2022-03-10 13:13:44.174,triceps,Extension des triceps à la poulie à un bras
+e8b0d596-df98-4a86-92e5-616f8d6d0513,2022-03-10 13:16:54.897,2022-03-10 13:13:44.453,triceps,Extension des triceps à la poulie coudes écartés
+a6b1ea63-63a8-4bee-85f3-02f20ca98037,2022-03-10 13:16:54.897,2022-03-10 13:13:44.73,triceps,Extension des triceps à la poulie en pronation
+9c780dde-0879-456d-801f-8af11841735b,2022-03-10 13:16:54.897,2022-03-10 13:13:45.018,triceps,Extension des triceps à la poulie en supination
+75f09f1f-986c-4a8e-8485-1d5b3c99cf89,2022-03-10 13:16:54.897,2022-03-10 13:13:45.334,triceps,Kickback avec haltère
+8939df98-0de8-4549-8117-182a664071e0,2022-03-10 13:16:54.897,2022-03-10 13:13:45.69,triceps,Kickback à la poulie
+e0ed5a94-8046-4578-8309-f031e2033fa7,2022-03-10 13:18:49.363,2022-03-10 13:16:56.502,biceps,Curl au pupitre avec barre
+4e230c0e-2e83-4c59-93aa-bd9d7c6f563f,2022-03-10 13:18:49.363,2022-03-10 13:17:08.692,biceps,Curl incliné avec haltères
+07df7b5e-7351-4579-bb89-86f8d318185a,2022-03-10 13:18:49.363,2022-03-10 13:17:09.101,biceps,Curl marteau en travers avec haltères
+5c81fafe-022a-45f0-9191-7d198dee71a7,2022-03-10 13:18:49.365,2022-03-10 13:17:09.455,biceps,Traction prise supination non cambré à la barre fixe
+eb2e47c8-c733-4f89-9f23-abf4b422a1cc,2022-03-10 13:18:49.365,2022-03-10 13:17:09.801,biceps,Curl allongé à la poulie basse
+b043c57f-4d83-427a-89df-831351b4082a,2022-03-10 13:18:49.365,2022-03-10 13:17:10.127,biceps,Curl allongé à la poulie haute
+b71650c2-4a42-4c5e-af4b-f431dd829dac,2022-03-10 13:18:49.366,2022-03-10 13:17:10.469,biceps,Curl araignée avec barre
+9512a959-744c-49b2-beac-709d7b3d65af,2022-03-10 13:18:49.367,2022-03-10 13:17:10.809,biceps,Curl au pupitre à la poulie
+7e0e214f-10f9-4538-89bf-47a0f9b3c3c3,2022-03-10 13:18:49.367,2022-03-10 13:17:11.13,biceps,Curl avec haltères
+f674b5d1-0980-402a-8cc0-150232e77e7f,2022-03-10 13:18:49.367,2022-03-10 13:17:11.526,biceps,Curl à la barre
+ab74a2d1-dae5-4984-bca0-35f3a964f168,2022-03-10 13:18:49.368,2022-03-10 13:17:11.869,biceps,Curl à la poulie basse
+fb9248e2-6a34-42b3-88cf-d573b6800f3d,2022-03-10 13:18:49.368,2022-03-10 13:17:12.266,biceps,Curl marteau avec haltères
+cc1e1844-22f0-48d8-aad5-50f07013954c,2022-03-10 13:18:49.368,2022-03-10 13:17:13.251,biceps,Curl au pupitre à la machine
+590d0fd9-9740-4d4a-bd67-6b28d6f2323f,2022-03-10 13:18:49.368,2022-03-10 13:17:13.622,biceps,Curl à la poulie vis à vis
+347f0b07-b069-41ac-acc6-7f6e21521113,2022-03-10 13:21:02.967,2022-03-10 13:18:50.885,avant-bras,Flexion des poignets avec barre
+18e1b42b-8af0-444f-8583-c8e6180f575c,2022-03-10 13:21:02.967,2022-03-10 13:18:51.37,avant-bras,Extension des poignets avec barre
+f0cb351d-5bfe-46ab-ba20-38f2188d2678,2022-03-10 13:21:02.967,2022-03-10 13:18:51.786,avant-bras,Bobine Andrieux - Flexion
+510fd656-6d25-4a26-a7a2-31482f4ee9bc,2022-03-10 13:21:02.968,2022-03-10 13:20:07.759,avant-bras,Bobine Andrieux - Extension
+e28fa19d-a490-4e91-a255-4de88db42bfe,2022-03-10 13:21:02.968,2022-03-10 13:20:08.435,avant-bras,Curl inversé à la poulie
+13f37892-5898-4886-acdc-8bea9dd049b1,2022-03-10 13:21:02.968,2022-03-10 13:20:08.876,avant-bras,Curl inversé avec barre
+7aee1fad-09a2-447a-8dd0-64fa9b8a7f02,2022-03-10 13:21:02.968,2022-03-10 13:20:09.436,avant-bras,Curl inversé au pupitre à la poulie
+2165ae28-767c-4ae8-80c5-6f6de4af8fda,2022-03-10 13:21:02.968,2022-03-10 13:20:09.829,avant-bras,Curl inversé au pupitre avec barre
+aeac9cfd-67a1-4aa1-b54e-e671f94b1ea6,2022-03-10 13:21:02.968,2022-03-10 13:20:10.578,avant-bras,Curl inversé allongé à la poulie haute
+f8e10436-4914-4b0d-9617-781998812ed3,2022-03-10 13:21:02.968,2022-03-10 13:20:11.817,avant-bras,Curl inversé allongé à la poulie basse
+c3e525f2-61de-4df1-a460-12a4fb940ad3,2022-03-10 13:18:49.369,2022-03-10 13:21:02.969,biceps,Curl concentré avec haltère
+d5b8b7f0-85f3-4d84-a413-0809bcd02ee6,2022-03-10 13:27:05.737,2022-03-10 13:24:51.176,abdominaux,Crunch abdominaux avec l’Abmat
+a61f24fc-867b-417c-a55f-b90d53f77c72,2022-03-10 13:27:05.737,2022-03-10 13:25:01.984,abdominaux,Crunch à la poulie haute
+dee8960c-0d95-4d40-ace1-a7f8cf0ac13b,2022-03-10 13:27:05.738,2022-03-10 13:25:02.486,abdominaux,Enroulement de bassin au sol avec l’Abmat
+849bef35-2ab9-4565-a36f-1700e7b74747,2022-03-10 13:27:05.738,2022-03-10 13:25:02.924,abdominaux,Enroulement de bassin suspendu à la barre fixe
+6ac14f0b-56bc-4440-81c7-3cd7ce9d24af,2022-03-10 13:27:05.738,2022-03-10 13:25:03.452,abdominaux,Obliques sur banc à lombaires
+46cb32ba-6ddb-4d6f-ae58-e0f32209416a,2022-03-10 13:27:05.738,2022-03-10 13:25:03.801,abdominaux,Crunch abdominaux au sol
+2ee16f76-7f25-4ad8-877d-aec0471aefb4,2022-03-10 13:27:05.738,2022-03-10 13:25:04.159,abdominaux,Crunch abdominaux à la machine
+cb2401d6-1d63-4023-b0c2-732b13b9d3e3,2022-03-10 13:27:05.738,2022-03-10 13:25:04.552,abdominaux,Crunch abdominaux sur la Swiss Ball
+b9e583b4-4a80-49a2-8160-b6348fe6a671,2022-03-10 13:27:05.738,2022-03-10 13:25:04.956,abdominaux,Crunch oblique au sol
+ee8f07f0-3b5d-478c-8f12-ba7e41eb1f0d,2022-03-10 13:27:05.738,2022-03-10 13:25:05.346,abdominaux,Enroulement de bassin au sol
+01435747-f27b-4360-b86b-951b910e2670,2022-03-10 13:27:05.739,2022-03-10 13:25:05.735,abdominaux,Obliques avec l’Abmat
+c451779d-b874-4c2e-95ef-34a83dcee23f,2022-03-10 13:27:05.739,2022-03-10 13:25:06.108,abdominaux,Obliques sur la Swiss Ball
+43555d67-6990-45eb-bdc1-2b38a1f61eab,2022-03-10 13:27:05.739,2022-03-10 13:25:06.482,abdominaux,Obliques suspendu à la barre fixe
+35ed5956-5fee-4069-901b-1f79c7b68b14,2022-03-10 13:27:05.739,2022-03-10 13:25:06.838,abdominaux,Rotation à la machine
+34342c3f-3c5c-4d88-a6c9-460ec78a1dbc,2022-03-10 13:27:05.739,2022-03-10 13:25:07.192,abdominaux,Vacuum
+b16ee7b1-c125-4ed2-b154-bc0a1e5e2ce9,2022-03-10 13:27:05.739,2022-03-10 13:25:07.524,abdominaux,Crunch abdominaux avec rotation au sol
+b983c032-1b64-4c02-ba27-e28a94cdd7ed,2022-03-10 13:27:05.739,2022-03-10 13:25:07.917,abdominaux,Drapeau du dragon
+5674aae8-c54c-48dc-b133-241b2e716cbb,2022-03-10 13:27:05.739,2022-03-10 13:25:08.276,abdominaux,Flexion latérale avec haltère
+ae7fce68-f339-4320-be74-1214c0d0113a,2022-03-10 13:27:05.74,2022-03-10 13:25:08.935,abdominaux,Gainage abdominal frontal
+0cfd1e8f-3bcd-4b1d-874f-c6a353738ee6,2022-03-10 13:27:05.74,2022-03-10 13:25:09.459,abdominaux,Gainage abdominal oblique
+4f4e2074-4f13-430e-b2f2-540d3362739c,2022-03-10 13:27:05.74,2022-03-10 13:25:10.151,abdominaux,Rotation debout avec balais
+513a4770-8f0f-4b09-8281-0f2b9774feb4,2022-03-10 13:28:33.308,2022-03-10 13:27:08.905,fessiers,Hip thrust à la barre
+54cf4c9f-60b1-4382-9b6f-d6fd7aeba3a5,2022-03-10 13:28:33.308,2022-03-10 13:27:16.454,fessiers,Soulevé de terre avec barre
+b04af85e-b55c-4a75-9f2a-00fff9ca4f73,2022-03-10 13:28:33.308,2022-03-10 13:27:16.919,fessiers,Soulevé de terre sumo avec barre
+8b50d332-6e3b-4fb6-b31c-e34f11677660,2022-03-10 13:28:33.308,2022-03-10 13:27:17.408,fessiers,Extension inversé à la machine
+c7cd55b5-b4b6-4b63-92bd-b0f6200f390b,2022-03-10 13:28:33.308,2022-03-10 13:27:17.812,fessiers,Fente arrière glissée avec Valslide
+ae24ca31-2248-4749-b547-7f5676f7bfb6,2022-03-10 13:28:33.308,2022-03-10 13:27:18.219,fessiers,Fente à la Smith machine
+99ddb04b-3723-49b2-9fa9-d0deed058f92,2022-03-10 13:28:33.308,2022-03-10 13:27:18.546,fessiers,Abducteurs allongé avec lest cheville
+b789c85e-25ca-4231-b079-d2e24e3915f6,2022-03-10 13:28:33.308,2022-03-10 13:27:18.927,fessiers,Abducteurs assis à la machine
+2c2b36ac-0f60-4632-b06c-c2d10ea954f2,2022-03-10 13:28:33.309,2022-03-10 13:27:19.316,fessiers,Abducteurs à la machine
+e1197d2f-4ea1-4555-b546-5f9be70f44cf,2022-03-10 13:28:33.309,2022-03-10 13:27:19.656,fessiers,Abducteurs à la poulie
+c0e2803e-471a-4cf4-a8f7-364c9ccbbe45,2022-03-10 13:28:33.309,2022-03-10 13:27:20.028,fessiers,Extension de la hanche à la machine
+3a71bdb2-ded0-4056-a510-313c66b14293,2022-03-10 13:28:33.309,2022-03-10 13:27:20.378,fessiers,Fente avec barre
+5869d4c7-9a63-469b-9891-ddd28af73e42,2022-03-10 13:28:33.309,2022-03-10 13:27:21.046,fessiers,Fente en marchant avec barre ou haltères
+d38c2b1c-30f4-4a7d-a85a-5330768f6ffc,2022-03-10 13:28:33.309,2022-03-10 13:27:21.737,fessiers,Fente en reculant avec barre ou haltères
+6d4ee2a6-3568-4323-8d34-cd9bee8ef908,2022-03-10 13:31:50.895,2022-03-10 13:28:34.507,quadriceps,Hack squat à la machine
+46783d94-a3db-4d34-968f-bb60bbf2a69a,2022-03-10 13:31:50.895,2022-03-10 13:28:42.177,quadriceps,Presse à cuisses allongé
+7c4b78d9-21cf-4c37-88f6-2b02e99c4ca8,2022-03-10 13:31:50.895,2022-03-10 13:28:42.638,quadriceps,Presse à cuisses assis
+98f265e5-bfd9-4dc2-982a-6af4074c3b78,2022-03-10 13:31:50.895,2022-03-10 13:28:43.013,quadriceps,Presse à cuisses incliné
+f9d0a5fb-7bae-46d3-ac66-7d7f851bca0b,2022-03-10 13:31:50.895,2022-03-10 13:28:43.449,quadriceps,Squat avant avec barre
+eccd319c-66b0-4491-aa44-c21f0282b754,2022-03-10 13:31:50.895,2022-03-10 13:28:43.736,quadriceps,Squat avec barre derrière la nuque
+8a69a337-150b-48cb-93a9-fe473830c5d9,2022-03-10 13:31:50.895,2022-03-10 13:28:44.126,quadriceps,Squat sumo avec barre
+ae539af1-9b94-4165-b05d-bf5c95f82fe2,2022-03-10 13:31:50.896,2022-03-10 13:28:44.436,quadriceps,Fente latérale avec barre
+9fb29dfe-ba7b-49cc-a152-781517e1b4b5,2022-03-10 13:31:50.896,2022-03-10 13:28:44.827,quadriceps,Gobelet Squat avec haltère
+32b88781-3e48-45f3-92ac-29d70e35884d,2022-03-10 13:31:50.896,2022-03-10 13:28:45.16,quadriceps,Hack squat avec une barre
+5cdf6a3e-6c50-4bb7-a10e-4c40d8ac1a3e,2022-03-10 13:31:50.896,2022-03-10 13:28:45.509,quadriceps,Montée sur banc avec barre ou haltères
+263d8293-837e-482b-8d87-fb72bf3a7402,2022-03-10 13:31:50.896,2022-03-10 13:28:45.876,quadriceps,Squat avec ceinture de lest
+6a76a981-bbb3-4fb1-a234-2ec8a6393c1f,2022-03-10 13:31:50.896,2022-03-10 13:28:46.183,quadriceps,Squat à la machine
+b5e33ded-bc1c-4df5-a9bf-9d5f7aea2aa3,2022-03-10 13:31:50.896,2022-03-10 13:28:46.576,quadriceps,Squat à la machine à mollets
+09d2c400-92d2-41d5-a358-894d16fe3b90,2022-03-10 13:31:50.896,2022-03-10 13:28:46.884,quadriceps,Squat à la Smith machine
+77cc5628-4c5e-415c-a271-e433fab72fb6,2022-03-10 13:31:50.896,2022-03-10 13:28:47.196,quadriceps,Squat à une jambe au poids de corps
+c89b20a5-dc99-49fc-909c-61b3b4390298,2022-03-10 13:31:50.897,2022-03-10 13:28:47.567,quadriceps,Squat bulgare avec barre ou haltères
+dd4a118d-6fbe-44d8-ab89-c80816431cad,2022-03-10 13:31:50.897,2022-03-10 13:28:47.912,quadriceps,Adducteurs assis à la machine
+86f28112-af53-480e-a7ed-fcf93dd1e5f2,2022-03-10 13:31:50.898,2022-03-10 13:28:48.292,quadriceps,Adducteurs à la machine
+a4651efc-31e4-4cea-a799-6bf2aaa1e4e9,2022-03-10 13:31:50.898,2022-03-10 13:28:48.678,quadriceps,Adducteurs à la poulie
+eb7983c1-b129-425e-8c46-abb555a9fdac,2022-03-10 13:31:50.898,2022-03-10 13:28:49.051,quadriceps,Flexion de la hanche à une jambe à la machine
+65291a91-1754-4def-b735-17fc3560134b,2022-03-10 13:31:50.898,2022-03-10 13:28:49.524,quadriceps,Leg extension allongé à la machine
+8c2887a7-e036-4ea8-98eb-474c1aedaf5b,2022-03-10 13:31:50.898,2022-03-10 13:28:49.882,quadriceps,Leg extension assis à la machine
+648f754c-f43c-466f-b71a-ad14c942c5c0,2022-03-10 13:31:50.898,2022-03-10 13:28:50.236,quadriceps,Relevé de buste au sol ou sur banc incliné
+16b9fff8-e596-46ff-acbd-383c57aa1d68,2022-03-10 13:31:50.898,2022-03-10 13:28:50.594,quadriceps,Relevé de genoux allongé au sol ou sur banc incliné
+a984436b-89ca-427e-a465-5cd32c864e81,2022-03-10 13:31:50.899,2022-03-10 13:28:50.953,quadriceps,Relevé de genoux sur banc
+07bb410f-fb2a-4e65-b435-20915d751751,2022-03-10 13:31:50.899,2022-03-10 13:28:51.305,quadriceps,Relevé de genoux suspendu à la barre fixe
+3b11c5f9-26e0-4ebf-8299-2bae9f012d9c,2022-03-10 13:31:50.899,2022-03-10 13:28:51.676,quadriceps,Sissy squat
+ba774f8c-7f99-474d-b803-37fb2baf5f8a,2022-03-10 13:31:50.899,2022-03-10 13:28:52.044,quadriceps,Sissy squat à la presse allongé
+0487b20b-c162-4add-9979-4aa9576771d9,2022-03-10 13:31:50.899,2022-03-10 13:28:52.434,quadriceps,Squat avec haltères
+5e7a3ed8-ecac-4d2b-8676-ffea84f43956,2022-03-10 13:31:50.899,2022-03-10 13:28:52.91,quadriceps,Squat indien
+4c5db25c-3b7b-468c-bfc0-7bae44216231,2022-03-10 13:32:58.361,2022-03-10 13:31:59.939,ischio-jambiers,Glute Ham Raise au banc
+4b009268-5684-42f7-ac62-916692d2fe52,2022-03-10 13:32:58.361,2022-03-10 13:32:05.182,ischio-jambiers,Leg curl assis à la machine
+fcab3298-ba6a-4570-b372-66ffd12328f4,2022-03-10 13:32:58.361,2022-03-10 13:32:05.443,ischio-jambiers,Soulevé de terre jambes tendues avec barre ou haltères
+ced0384c-fd8c-4c2c-bcc7-48b39e1bee2a,2022-03-10 13:32:58.361,2022-03-10 13:32:05.806,ischio-jambiers,Extension au banc à lombaires à 45 degrés
+a1fbc1cb-52e3-4d72-9b48-2fead449f4af,2022-03-10 13:32:58.361,2022-03-10 13:32:06.385,ischio-jambiers,Good Morning avec barre
+d89bb133-4177-42db-b053-8f909175f15b,2022-03-10 13:32:58.361,2022-03-10 13:32:06.859,ischio-jambiers,Leg curl allongé à la machine
+757eb809-c6df-4c52-9dae-13aeb2f54caf,2022-03-10 13:32:58.361,2022-03-10 13:32:07.28,ischio-jambiers,Leg curl debout à une jambe à la machine
+6235b878-e8d5-4399-b343-22f099c355db,2022-03-10 13:32:58.362,2022-03-10 13:32:07.757,ischio-jambiers,Leg curl debout à une jambe à la poulie
+3829c5fe-dec6-479a-ace8-aebb4d026127,2022-03-10 13:32:58.362,2022-03-10 13:32:08.193,ischio-jambiers,Soulevé de terre jambes tendues à la poulie
+3a8ac017-3a47-4ece-ae92-15d4ed50a26a,2022-03-10 13:32:58.362,2022-03-10 13:32:08.786,ischio-jambiers,Extension au banc à lombaires à 90 degrés
+52115ea1-c2fc-4ff5-8cd6-4108b553b9a9,2022-03-10 13:33:36.731,2022-03-10 13:32:59.762,mollets,Mollets debout à une jambe avec haltère
+d0602623-3438-4e6e-85c4-248a2bef09e7,2022-03-10 13:33:36.732,2022-03-10 13:33:00.369,mollets,Mollets debout à la machine
+0df8613f-8afc-4a59-803b-68565efbf0aa,2022-03-10 13:33:36.732,2022-03-10 13:33:00.631,mollets,Mollets à la presse à cuisses
+cedd2947-f4da-481f-abb3-1c408e0dfc7e,2022-03-10 13:33:36.732,2022-03-10 13:33:00.824,mollets,Mollets assis jambes tendues à la machine
+0480d26e-14bb-44b3-b762-fcb05844ca75,2022-03-10 13:33:36.732,2022-03-10 13:33:01.147,mollets,Chameau à la machine
+b4f5ab2a-ea3e-4186-8268-c923cf02b0ef,2022-03-10 13:33:36.731,2022-03-10 13:33:41.386,mollets,Mollets assis à la machine
+c0bfb0ae-5dfe-4f6c-b8fb-99b879d8c233,2022-03-10 13:34:23.383,2022-03-10 13:33:49.163,lombaires,Soulevé de terre avec barre
+f888b61d-ca63-45d3-ab4e-4176db9e809d,2022-03-10 13:34:23.383,2022-03-10 13:33:49.754,lombaires,Soulevé de terre jambes tendues avec barre ou haltères
+888bd451-876f-4b7b-a837-1f3663da59c4,2022-03-10 13:34:23.383,2022-03-10 13:33:50.176,lombaires,Soulevé de terre sumo avec barre
+35cc8808-1b3a-4525-9202-9c157702990a,2022-03-10 13:34:23.383,2022-03-10 13:33:50.649,lombaires,Enroulement/Déroulement au banc à lombaires
+5d74d51e-4760-45c7-aea5-07cc784e8620,2022-03-10 13:34:23.383,2022-03-10 13:33:51.089,lombaires,Good Morning avec barre
+dd97eae1-a34b-4f96-a6e5-7fe1d5b3c3c3,2022-03-10 13:34:23.384,2022-03-10 13:33:51.633,lombaires,Soulevé de terre jambes tendues à la poulie

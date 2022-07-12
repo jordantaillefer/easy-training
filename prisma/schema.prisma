@@ -1,0 +1,102 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Programme {
+  id           String    @id
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  nomProgramme String    @default("")
+  semaines     Semaine[]
+}
+
+model Semaine {
+  id          String    @id
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  programme   Programme @relation(fields: [programmeId], references: [id])
+  programmeId String
+  jours       Jour[]
+}
+
+model Jour {
+  id            String   @id @default(uuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  semaine       Semaine  @relation(fields: [semaineId], references: [id])
+  semaineId     String
+  jourDeSemaine Int      @default(1)
+  seances       Seance[]
+}
+
+model Seance {
+  id                    String                  @id
+  createdAt             DateTime                @default(now())
+  updatedAt             DateTime                @updatedAt
+  numSeance             Int                     @default(1)
+  jour                  Jour                    @relation(fields: [jourId], references: [id])
+  jourId                String
+  exercicesSeance       ExerciceSeance[]
+  SportifExerciceSeance SportifExerciceSeance[]
+}
+
+model ExerciceSeance {
+  id           String   @id @default(uuid())
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  tempsRecup   Int      @default(0)
+  ordre        Int      @default(1)
+  nbSerie      Int      @default(0)
+  nbRepetition Int      @default(0)
+  seance       Seance   @relation(fields: [seanceId], references: [id])
+  seanceId     String
+  exercice     Exercice @relation(fields: [exerciceId], references: [id])
+  exerciceId   String
+}
+
+model Exercice {
+  id                    String                  @id
+  createdAt             DateTime                @default(now())
+  updatedAt             DateTime                @updatedAt
+  nomExercice           String
+  categorie             String
+  ExerciceSeance        ExerciceSeance[]
+  SportifExerciceSeance SportifExerciceSeance[]
+}
+
+model Sportif {
+  id            String          @id
+  SportifSeance SportifSeance[]
+}
+
+model SportifSeance {
+  id                    String                  @id @default(uuid())
+  SportifExerciceSeance SportifExerciceSeance[]
+  Sportif               Sportif                 @relation(fields: [sportifId], references: [id])
+  sportifId             String
+}
+
+model SportifExerciceSeance {
+  id              String        @id
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  tempsRecup      Int           @default(0)
+  ordre           Int           @default(1)
+  nbSerie         Int           @default(0)
+  nbRepetition    Int           @default(0)
+  note            Int           @default(0)
+  seance          Seance        @relation(fields: [seanceId], references: [id])
+  seanceId        String
+  exercice        Exercice      @relation(fields: [exerciceId], references: [id])
+  exerciceId      String
+  SportifSeance   SportifSeance @relation(fields: [sportifSeanceId], references: [id])
+  sportifSeanceId String
+}
